@@ -54,7 +54,7 @@ Cheat Sheets:
     - Simulationen erstellen
 
 - Florian
-  - Vegleich der verschiedenen Modelle
+  - Vergleich der verschiedenen Modelle
     - Gewinnmargen
     - Verkaufszahlen & Erklärung
     - Nach Markplatz aufschlüsseln
