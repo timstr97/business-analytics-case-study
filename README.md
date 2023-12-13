@@ -81,6 +81,30 @@ Link Präsi: [Präsi_Business_Analytics.pptx](https://fhbi-my.sharepoint.com/:p:
 
 Link Präsi: [Präsi_Business_Analytics.pptx](https://fhbi-my.sharepoint.com/:p:/g/personal/tim_strulik_fhbi_onmicrosoft_com/EV1QVUrv73JBpa6JS5QQSeEBPm-4y6tKjFnK5epyjhhUjw?e=2MNd61)
 
+- Hypothesen
+
+  - Florian & Tim
+  - Stores sind ineffektiv
+    - Florian
+    - Regionen und die Markplätze zum Vergleich an
+    - Kosten
+
+    - Tim
+    - Produkte und damiteinhergehend Preise
+
+    - Handlungsempfehlung: Weitergehende Kostenanalyse, Preise erhöhen oder Stores schließen (nur in bestimmten Regionen)
+
+  - Patrick & Moritz
+  - Tablet Basic ist nicht profitabel
+    - Moritz
+    - Weitergehende Analyse der Regionen und Marktplätze
+
+    - Patrick
+    - Zeitliche Entwicklung der Kennzahlen (Verkaufszahlen, Gewinn, Umsatz, Kosten, Preise, Customer Ratings Anzahl Transaktionen)
+    - Verluste weiter analysieren
+
+    - Handlungsempfehlung: Kundenbefragung, Preise erhöhen, Modell nur in bestimmten Marktplätzen anbieten oder Modell abschaffen
+
 # Notebookerstellung
 
 - Patrick
