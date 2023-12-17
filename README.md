@@ -95,7 +95,7 @@ Link Präsi: [Präsi_Business_Analytics.pptx](https://fhbi-my.sharepoint.com/:p:
     - Handlungsempfehlung: Weitergehende Kostenanalyse, Preise erhöhen oder Stores schließen (nur in bestimmten Regionen)
 
   - Patrick & Moritz
-  - Tablet Basic ist nicht profitabel
+  -  
     - Moritz
     - Weitergehende Analyse der Regionen und Marktplätze
 
