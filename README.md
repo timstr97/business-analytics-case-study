@@ -109,39 +109,36 @@ Link Präsi: [Präsi_Business_Analytics.pptx](https://fhbi-my.sharepoint.com/:p:
 - Datenaufbereitung - Patrick
 - Gesamtübersicht aus der Präsentation - Tim
 
-- Tim: Kundenbewertung hat Einfluss auf wirtschaftliche Performance?
+- Paketimporten
+- Datenaufbereitung (main)
+- Gesamtübersicht aus der Präsentation (tim/präsi_sandbox)
 
-  - Region
-  - Marktplatz/Verkaufsart
-- Moritz: Wie ist das Kaufverhalten?
+- Gewinn sinkt, weil Kosten steigen? → auf Regionen und Markplatz beziehen
+- Sind Stores ineffektiv? (auf Umsatz, menge, Gewinn etc. beziehen) (florian/kostenanalyse)
+- Discounts (moritz/sandbox1)
+- Marketplace relativ
+- Steigt die Anzahl an verkauften Tablets bei Discounts im Vergleich zu keinem Discount?
+- Produkte und damiteinhergehend Preise (tim/analyse_stores_produkte_sandbox)
 
+- Vergleich der verschiedenen Modelle (florian/analyse_vergleich_modelle)
+  - Gewinnmargen
+  - Verkaufszahlen & Erklärung
+  -  Nach Markplatz aufschlüsseln
+- Tablet Basic (patrick/analyse_tabletbasic)
+  - Weitere Grafiken erstellen
+  - Lineare Regression
+  - Simulationen erstellen+
+- Wie ist das Kaufverhalten? (moritz/sanbox1)
   - Transaktionsanzahl pro Zeiteinheit (monatlich, wöchentlich) geht zurück?
   - Menge pro Transaktion wird weniger? Leute kaufen 5 Tablets statt 1
   - Kunden kaufen günstigere Modelle → Preis pro Produkt ist weniger
-- Florian
 
-  - Gewinn sinkt, weil Kosten steigen? → auf Regionen und Markplatz beziehen
-  - Sind Stores ineffektiv? (auf Umsatz, menge, Gewinn etc. beziehen)
-- Patrick: Hat die Downtime einen Einfluss auf die Verkäufe (Allgemein)?
+- Kundenbewertung hat Einfluss auf wirtschaftliche Performance? (tim/analyse_rating_sandbox)
+  - Region
+  - Marktplatz/Verkaufsart
 
+- Hat die Downtime einen Einfluss auf die Verkäufe (Allgemein)? (patrick/analyse_downtime)
   - Hat die Steigerung der Downtime in Region A und B zu einem Rückgang der Online-Verkäufe geführt?
   - Region C: Downtime sinkt um 1 %, steigen Online-Verkäufe? → in Zusammenhang mit Region D prüfen, hier steigt die Downtime um 1 %
 
-- Patrick
-
-  - Tablet Basic
-    - Weitere Grafiken erstellen
-    - Lineare Regression
-    - Simulationen erstellen
-- Florian
-
-  - Vergleich der verschiedenen Modelle
-    - Gewinnmargen
-    - Verkaufszahlen & Erklärung
-    - Nach Markplatz aufschlüsseln
-      - Sinken die Gewinne des Stores wegen bestimmter Modelle?
-- Moritz
-
-  - Discounts
-    - Marketplace relativ
-    - Steigt die Anzahl an verkauften Tablets bei Discounts im Vergleich zu keinem Discount?
+- Fazit mit entsprechenden Handlungsempfehlungen
