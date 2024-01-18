@@ -106,9 +106,6 @@ Link Präsi: [Präsi_Business_Analytics.pptx](https://fhbi-my.sharepoint.com/:p:
 
 # Notebookerstellung
 
-- Datenaufbereitung - Patrick
-- Gesamtübersicht aus der Präsentation - Tim
-
 - Paketimporten
 - Datenaufbereitung (main)
 - Gesamtübersicht aus der Präsentation (tim/präsi_sandbox)
@@ -123,7 +120,7 @@ Link Präsi: [Präsi_Business_Analytics.pptx](https://fhbi-my.sharepoint.com/:p:
 - Vergleich der verschiedenen Modelle (florian/analyse_vergleich_modelle)
   - Gewinnmargen
   - Verkaufszahlen & Erklärung
-  -  Nach Markplatz aufschlüsseln
+    - Nach Markplatz aufschlüsseln
 - Tablet Basic (patrick/analyse_tabletbasic)
   - Weitere Grafiken erstellen
   - Lineare Regression
